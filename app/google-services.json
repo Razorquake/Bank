@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "647922328333",
+    "project_id": "bank-34cbb",
+    "storage_bucket": "bank-34cbb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:647922328333:android:2eb23cd46cb6efba0a8644",
+        "android_client_info": {
+          "package_name": "com.example.bank"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDZHFm6RhHURUXjKZlD5GplN1hF6r0AFs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
